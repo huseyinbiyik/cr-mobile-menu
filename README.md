@@ -1,59 +1,164 @@
-## Parity
+<a name="readme-top"></a>
 
-> Parity is a web app that allows you to check the parities of the currencies of the world.
+<div align="center">
 
-## Built With
+  <br/>
 
-- Ruby
-- Ruby on Rails
--  PostgreSQL
-- Fixer API
--  RSpec
--  Capybara
+  <h3><b>Portfolio</b></h3>
 
-## Getting Started
+</div>
 
-To get a local copy up and running follow these simple example steps.
+<!-- TABLE OF CONTENTS -->
 
-1- Copy this link `https://github.com/huseyinbiyik/parity.git` <br>
-2- Get the directory that you want to clone the repository. <br>
-3- Open the command prompt in this directory. <br>
-4- Write `git clone https://github.com/huseyinbiyik/parity.git` <br>
-5- Go to the repository folder in your command prompt `cd parity`. <br>
-6- Write `bundle install` to install the necessary gems. <br>
-6- Go to command line and run `rails s`. <br>
-7- Run `rails db:create` to create database. <br>
-8- Run `rails db:migrate` to migrate database. <br>
-9- Run `rails rates:update` or `rake rates:update` to fetch and update the rates in the database. <br>
-10- Open your browser and go to `http://localhost:3000/` <br>
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Portfolio\] ](#-portfolio-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [� Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Portfolio] <a name="about-project"></a>
+
+**[Portfolio]** is a portfolio website that allows users to view my projects and contact me.
 
 
-To run the tests <br>
-Run `rspec` on terminal window
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><p>HTML</p></li>
+    <li><p>CSS</p></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Responsive design]**
+- **[Contact form]**
+- **[Social media links]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-IDE(VSCode etc.), WSL(for Windows OS)
+In order to run this project you need:
 
-## Author
+- [VSCode](https://code.visualstudio.com/download)
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Write ```git clone https://github.com/huseyinbiyik/cr-mobile-menu.git```
+- Go to the folder with ```cd cr-mobile-menu```
+- Open the index.html file with your browser
+
+### Install
+
+Install this project with:
+
+- Optional but if you want to run the linters on local. You can follow the instructions linter.yml file.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Huseyin Biyik**
 
-- GitHub: [@huseyinbiyik](https://github.com/huseyinbiyik)
-- Twitter: [@huseyin__biyik](https://twitter.com/huseyin__biyik)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tahahuseyinbiyik/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Make it more responsive for all other screens]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## 📝 License
+## ⭐️ Show your support <a name="support"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
